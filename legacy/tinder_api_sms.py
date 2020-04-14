@@ -12,8 +12,6 @@ headers = {
 	"X-Auth-Token": config.tinder_token,
 }
 
-
-
 def get_recommendations():
     '''
     Returns a list of users that you can swipe on
